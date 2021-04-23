@@ -9,6 +9,7 @@ Currently using:
 - Python
 - Flask
 - FastAPI
+- Pytest
 - SQLAlchemy + SQLite
 - Bootstrap
 - NGINX + Gunicorn on Ubuntu VPS
