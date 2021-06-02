@@ -6,13 +6,14 @@
 
 Learning web development with a focus on back end.  
 Currently using:
-- Python
-- Flask
-- FastAPI (async framework)
+- Python (familiar w/ 3.5+)
+- Flask (partly async webframework - website first framework)
+- FastAPI (async framework - API first framework)
 - Pytest
 - SQLAlchemy + SQLite
-- Bootstrap
-- NGINX + Gunicorn on Ubuntu VPS
+- Bootstrap Css
+- Jinja2 Templates
+- NGINX + Gunicorn/Uvicorn on Ubuntu VPS
 
 ---
 
