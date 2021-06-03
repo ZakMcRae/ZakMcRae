@@ -32,4 +32,4 @@ Check out these sites I've made so far:
 Contact Info  
 [Email](mailto:zakmcrae@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/zachary-mcrae/)  
-[Indeed](https://my.indeed.com/p/zacharym-5gmbe2m)
+[Indeed (Resume)](https://my.indeed.com/p/zacharym-5gmbe2m)
