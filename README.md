@@ -7,7 +7,7 @@
 Learning web development with a focus on back end.  
 Currently using:
 - Python (familiar w/ 3.5+)
-- Small bits of Javascript (for client side validation in Python projects)
+- Small bits of Javascript (for client side form validation in Python projects)
 - Flask (partly async webframework - website first framework)
 - FastAPI (async framework - API first framework)
 - Pytest
