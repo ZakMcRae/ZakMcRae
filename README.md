@@ -17,6 +17,7 @@ Currently using:
   - Node
   - Express
   - React
+  - Webpack
 
 - HTML
 - CSS
