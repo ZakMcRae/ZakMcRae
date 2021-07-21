@@ -14,14 +14,18 @@ Currently using:
   - Jinja2 HTML Templates
 
 - Javascript
-  - node
-  - express
-  - react
+  - Node
+  - Express
+  - React
 
 - HTML
 - CSS
 
-- NGINX + Gunicorn/Uvicorn on Ubuntu VPS
+- NGINX
+- Ubuntu 20.04 host on Linode
+- Oh My Zsh
+- Pycharm for Python
+- VSCode + cmd git for Javascript
 
 ---
 
