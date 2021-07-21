@@ -4,16 +4,23 @@
 
 ---
 
-Learning web development with a focus on back end.  
+Learning web development, currently learning Javascript.  
 Currently using:
 - Python
+  - Flask (partly async webframework - website first framework)
+  - FastAPI (async framework - API first framework)
+  - Pytest
+  - SQLAlchemy
+  - Jinja2 HTML Templates
+
 - Javascript
-- Flask (partly async webframework - website first framework)
-- FastAPI (async framework - API first framework)
-- Pytest
-- SQLAlchemy
+  - node
+  - express
+  - react
+
+- HTML
 - CSS
-- Jinja2 HTML Templates
+
 - NGINX + Gunicorn/Uvicorn on Ubuntu VPS
 
 ---
@@ -24,6 +31,7 @@ Check out these sites I've made so far:
   - [fastapi.psts.xyz](https://fastapi.psts.xyz) - Async Frontend website for Blog  
 - [lsts.xyz](https://lsts.xyz/) - Todo/Shopping list site  
 - [spotifystats.xyz](https://spotifystats.xyz/) - Basic stats based off of your Spotify listening history
+- plus various projects as seen in my GitHub repos
 
 ---
 
