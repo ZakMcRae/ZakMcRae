@@ -4,7 +4,9 @@
 
 ---
 
-Learning web development, currently learning Javascript.  
+Learning web development, currently learning Javascript.
+I have most of my js repos hosted on github pages if you want to take a look at them.
+
 Currently using:
 - Python
   - Flask (partly async webframework - website first framework)
