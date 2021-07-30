@@ -37,7 +37,7 @@ Check out these sites I've made so far:
   - [fastapi.psts.xyz](https://fastapi.psts.xyz) - Async Frontend website for Blog  
 - [lsts.xyz](https://lsts.xyz/) - Todo/Shopping list site  
 - [spotifystats.xyz](https://spotifystats.xyz/) - Basic stats based off of your Spotify listening history
-- plus various projects as seen in my GitHub repos
+- plus various projects as seen in my [GitHub repositories](https://github.com/ZakMcRae?tab=repositories)
 
 ---
 
