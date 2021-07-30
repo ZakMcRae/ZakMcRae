@@ -38,6 +38,7 @@ Check out these sites I've made so far:
 - [lsts.xyz](https://lsts.xyz/) - Todo/Shopping list site  
 - [spotifystats.xyz](https://spotifystats.xyz/) - Basic stats based off of your Spotify listening history
 - plus various projects as seen in my [GitHub repositories](https://github.com/ZakMcRae?tab=repositories)
+  - Most javascript projects are hosted on GitHub pages with links in the about section of the repository
 
 ---
 
