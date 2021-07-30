@@ -4,8 +4,10 @@
 
 ---
 
-Learning web development, currently learning Javascript.
-I have most of my js repos hosted on github pages if you want to take a look at them.
+#### Learning web development, currently learning Javascript.  
+  
+I have most of my javascript repositories hosted on github pages if you want to take a look at them.  
+The links are in the about section of each repository.
 
 Currently using:
 - Python
