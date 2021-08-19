@@ -31,7 +31,7 @@ Currently using:
 
 ---
 
-Check out these sites I've made so far:  
+Check out these Python sites I've made so far. All hosted on my Linode server:  
 - [psts.xyz](https://psts.xyz) - Blog Project (hub page for project)   
   - [api.psts.xyz](https://api.psts.xyz) - Async Backend API for Blog  
   - [fastapi.psts.xyz](https://fastapi.psts.xyz) - Async Frontend website for Blog  
