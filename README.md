@@ -37,7 +37,8 @@ Check out these Python sites I've made so far. All hosted on my Linode server:
   - [fastapi.psts.xyz](https://fastapi.psts.xyz) - Async Frontend website for Blog  
 - [lsts.xyz](https://lsts.xyz/) - Todo/Shopping list site  
 - [spotifystats.xyz](https://spotifystats.xyz/) - Basic stats based off of your Spotify listening history
-- plus various projects as seen in my [GitHub repositories](https://github.com/ZakMcRae?tab=repositories)
+ 
+My various Javascript projects can be seen in my [GitHub repositories](https://github.com/ZakMcRae?tab=repositories)
   - Most javascript projects are hosted on GitHub pages with links in the about section of the repository
 
 ---
