@@ -39,6 +39,7 @@ Here are a few of my Javascript projects:
 - [Tool Store](https://zakmcrae.github.io/shopping-cart/#/) - Shopping Cart/Store Page (React App)
 - [Breaking Bad Memory Game](https://zakmcrae.github.io/memory-game/) - A Memory Game (React App)
 - [Whisky Warehouse](https://young-eyrie-64675.herokuapp.com/) - A fake whisky store (CRUD APP - MVC Express/Pug/MongoDB)
+  - Can take 5-15s on first load, this app is currently hosted on Heroku. 
 
 Check out these Python sites I've made so far. All hosted on my Linode server:  
 - [psts.xyz](https://psts.xyz) - Blog Project (hub page for project)   
