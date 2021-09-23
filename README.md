@@ -1,12 +1,10 @@
 # Hey, I'm Zak
-
 ### I am interested in automation and web development.
-
+#### Learning web development, currently learning Javascript.
 ---
 
-#### Learning web development, currently learning Javascript.  
+## What I'm using:
   
-Currently using:
 - Python
   - Flask (partly async webframework - website first framework)
   - FastAPI (async framework - API first framework)
@@ -34,6 +32,7 @@ Currently using:
 
 ---
 
+## Projects:
 
 Here are a few of my Javascript projects:
 - [Tool Store](https://zakmcrae.github.io/shopping-cart/#/) - Shopping Cart/Store Page (React App)
