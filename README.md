@@ -1,6 +1,6 @@
 # Hey, I'm Zak
 ### I am interested in automation and web development.
-#### Learning web development, currently learning Javascript.
+### [Check out my portfolio website here.](https://zakmcrae.github.io/personal-site/)
 ---
 
 ## What I'm using:
