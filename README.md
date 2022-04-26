@@ -30,6 +30,7 @@
 Here are a few of my Javascript projects:
 - IndiEats Driver - Delivery Driver App (React Native Android and iOS Apps) - in beta testing
 - [Portfolio Site](https://zakmcrae.github.io/personal-site/) - Portfolio Website (React App)
+- [Scale Down API](https://github.com/ZakMcRae/scale-down-api) - Express API with tests (Repo only - not hosted)
 - [Tool Store](https://zakmcrae.github.io/shopping-cart/#/) - Shopping Cart/Store Page (React App)
 - [Whisky Warehouse](https://young-eyrie-64675.herokuapp.com/) - A fake whisky store (CRUD APP - MVC Express/Pug/MongoDB)
 
