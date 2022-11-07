@@ -17,7 +17,7 @@
 
 - Development Tools/Software
   - Ubuntu
-  - macOS (for React Native iOS development)
+  - macOS
   - Oh My Zsh
   - Pycharm for Python
   - VSCode + cmd git for Javascript
@@ -27,12 +27,13 @@
 
 ## Projects:
 
-Here are a few of my Javascript projects:
-- IndiEats Driver - Delivery Driver App (React Native Android and iOS Apps) - in beta testing
+Here are a few of my projects:
+- IndiEats Customer - Food Delivery App (React Native Android and iOS Apps) - private repo for work
+- Rees Work Time Log - Employee Work Time Log (React Native Android and iOS Apps) - private repo for work
+- IndiEats Driver - Delivery Driver App (React Native Android and iOS Apps) - private repo for work
 - [Portfolio Site](https://zakmcrae.github.io/personal-site/) - Portfolio Website (React App)
 - [Scale Down API](https://github.com/ZakMcRae/scale-down-api) - Express API with tests (Repo only - not hosted)
-- [Tool Store](https://zakmcrae.github.io/shopping-cart/#/) - Shopping Cart/Store Page (React App)
-- [Whisky Warehouse](https://young-eyrie-64675.herokuapp.com/) - A fake whisky store (CRUD APP - MVC Express/Pug/MongoDB)
+- [Whisky Warehouse](https://github.com/ZakMcRae/inventory-application) - A fake whisky store (CRUD APP - MVC Express/Pug/MongoDB)
 
 ---
 
