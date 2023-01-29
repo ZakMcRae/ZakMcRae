@@ -1,14 +1,16 @@
 # Hey, I'm Zak
-### I am interested in automation, web and React Native development.
-### [Check out my portfolio website here.](https://zakmcrae.github.io/personal-site/)
+### I am a fullstack web developer with a focus on front end.
 ---
 
-## What I'm using:
+## Tech I've used or am using:
+- Typescript
+  - Vue 3
+  - Nuxt 3
 
 - Javascript
-  - Node
   - React
   - React Native
+  - Node
   - Express
   
 - Python
@@ -20,7 +22,7 @@
   - macOS
   - Oh My Zsh
   - Pycharm for Python
-  - VSCode + cmd git for Javascript
+  - VSCode + cmd git for Javascript/Typescript
   - Git and GitHub
 
 ---
@@ -28,12 +30,10 @@
 ## Projects:
 
 Here are a few of my projects:
-- IndiEats Customer - Food Delivery App (React Native Android and iOS Apps) - private repo for work
-- Rees Work Time Log - Employee Work Time Log (React Native Android and iOS Apps) - private repo for work
-- IndiEats Driver - Delivery Driver App (React Native Android and iOS Apps) - private repo for work
-- [Portfolio Site](https://zakmcrae.github.io/personal-site/) - Portfolio Website (React App)
-- [Scale Down API](https://github.com/ZakMcRae/scale-down-api) - Express API with tests (Repo only - not hosted)
-- [Whisky Warehouse](https://github.com/ZakMcRae/inventory-application) - A fake whisky store (CRUD APP - MVC Express/Pug/MongoDB)
+- Chartd - Financial planning, moddeling and planning App 
+- IndiEats- Order food for takeout or delivery from local restaurants (React Native Android and iOS Apps)
+- Rees Work Time Log - Employee Work Time Log (React Native Android and iOS Apps)
+- IndiEats Driver - Driver App for local restaurant food ordering app (React Native Android and iOS Apps)
 
 ---
 
