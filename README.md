@@ -30,10 +30,10 @@
 ## Projects:
 
 Here are a few of my projects:
-- Chartd - Financial planning, moddeling and planning App 
-- IndiEats- Order food for takeout or delivery from local restaurants (React Native Android and iOS Apps)
+- Chartd - Financial planning, modelling and planning App
+- IndiEats - Order food for takeout or delivery from local restaurants (React Native Android and iOS Apps)
 - Rees Work Time Log - Employee Work Time Log (React Native Android and iOS Apps)
-- IndiEats Driver - Driver App for local restaurant food ordering app (React Native Android and iOS Apps)
+- IndiEats Driver - Deliver restaurant food delivery orders to customers (React Native Android and iOS Apps)
 
 ---
 
