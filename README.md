@@ -6,6 +6,7 @@
 - Typescript
   - Vue 3
   - Nuxt 3
+  - chart.js
 
 - Javascript
   - React
@@ -31,9 +32,10 @@
 
 Here are a few of my projects:
 - Chartd - Financial planning, modelling and planning App
+  - [Sodelic](https://sodelic.com/) - Software developement lifecycle and project management tracking app
+  - [Track Offsets](https://trackoffsets.com/) - Custom built tool for Canada’s industrial and technological benefits (ITB) policy
 - IndiEats - Order food for takeout or delivery from local restaurants (React Native Android and iOS Apps)
-- Rees Work Time Log - Employee Work Time Log (React Native Android and iOS Apps)
-- IndiEats Driver - Deliver restaurant food delivery orders to customers (React Native Android and iOS Apps)
+- IndiEats Driver - Deliver food to customers ordered from local restaurants (React Native Android and iOS Apps)
 
 ---
 
